@@ -29,27 +29,27 @@ li img
 }
 .bob
 {
-	background:gray;
+	background:rgb(187, 201, 163);
 	padding: 30px;
 	border-radius: 20px;
 	margin-top: 50px;
-	box-shadow: 5px 5px 18 red;
+	box-shadow: 5px 5px 18 rgb(196, 189, 162);
 }
 b
 {
-	color: rgb(217, 0, 255);
+	color: rgb(109, 206, 209);
 }
 
 .bob3
 {
 	text-align: center;
-	color: rgb(255, 255, 255);
+	color: rgb(72, 184, 228);
 }
 .result
 {
 	box-shadow: 5px 5px 18px ;
 	letter-spacing: 2px;
-	background: rgb(255, 255, 255);
+	background: rgb(224, 132, 155);
 	border-radius: 20px;
 	margin-top:30px;
 	padding: 20px;
